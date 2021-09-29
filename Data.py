@@ -9,15 +9,15 @@ class Data:
     ABOUT = """
 **About This Bot** 
 
-Bot created by @StarkBots
+Bot created by @ABOUT_DEVIL_DAD
 
-Source Code : [Click Here](https://github.com/StarkBotsIndustries/AnonymousSenderBot)
+Source Code : [Click Here](https://github.com/kkverma25/AnonymousSenderBot)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Developer : @StarkProgrammer
+Developer : @YOUR_DEVIL_DAD
     """
 
     # Home Button
@@ -34,6 +34,6 @@ Developer : @StarkProgrammer
         [
             InlineKeyboardButton("🎪 About The Bot 🎪", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/StarkBots")],
-        [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/StarkBotsChat")],
+        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/ABOUT_DEVIL_DAD/4")],
+        [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/DEVIL_DAD_SUPPORT")],
     ]
